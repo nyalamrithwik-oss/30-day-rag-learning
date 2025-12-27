@@ -467,3 +467,14 @@ MIT License - Feel free to use this code for learning or commercial projects!
 
 </div>
 [30_day_rag_learning_README.md](https://github.com/user-attachments/files/24347859/30_day_rag_learning_README.md)
+Week 2: Model Context Protocol (MCP)
+- **[Day 8: Calculator MCP Server](https://github.com/nyalamrithwik-oss/day8-mcp-basics)**
+  - Basic MCP implementation
+  - 3 arithmetic operations
+  
+- **[Day 9: Database MCP Server](https://github.com/nyalamrithwik-oss/day9-database-mcp)** ⭐ **NEW**
+  - Full CRUD operations with SQLite
+  - 6 database tools for Claude Desktop
+  - Async operations with aiosqlite
+  - Production-ready implementation
+  - 100% test coverage
