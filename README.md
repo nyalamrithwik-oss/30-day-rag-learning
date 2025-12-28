@@ -478,3 +478,27 @@ Week 2: Model Context Protocol (MCP)
   - Async operations with aiosqlite
   - Production-ready implementation
   - 100% test coverage
+  ### Week 2: MCP Development (Days 8-14)
+
+#### [Day 10: Weather MCP Server](https://github.com/nyalamrithwik-oss/day10-Weather-mcp) ⭐ **NEW!**
+- **Status**: 🟢 Production Ready
+- **Description**: Weather intelligence MCP with OpenWeather API
+- **Tools**: 5 production weather tools
+- **Features**:
+  - Real-time weather conditions
+  - Multi-day forecasts (5-day)
+  - Severe weather alerts
+  - Location comparison
+  - GPS coordinate lookup
+- **Tech**: Python 3.11, MCP 1.25, httpx, OpenWeather API
+- **Testing**: 100% coverage (5/5 tests passing)
+- **Documentation**: 2,430 lines
+- **Response Time**: 500-800ms
+- **Business Value**: Location Intelligence service ($750-1,000)
+
+**Key Achievements**:
+✅ Async operations with concurrent requests
+✅ Real-time API integration
+✅ Comprehensive error handling
+✅ Production-ready deployment
+✅ Portfolio-grade documentation
