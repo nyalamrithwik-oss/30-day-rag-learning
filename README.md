@@ -519,3 +519,385 @@ Week 2: Model Context Protocol (MCP)
 ✅ Comprehensive error handling
 ✅ Production-ready deployment
 ✅ Portfolio-grade documentation
+
+# 🚀 RAG & MCP Learning Journey
+
+**30-Day Production AI Systems Challenge**
+
+Building production-ready AI systems with Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP) to generate $3K-5K monthly consulting revenue.
+
+---
+
+## 👨‍💻 About
+
+**Developer:** Rithwik Nyalakanti  
+**GitHub:** [@nyalamrithwik-oss](https://github.com/nyalamrithwik-oss)  
+**Location:** Karimnagar, Telangana, India  
+**Focus:** AI Generalist & Consultant  
+**Goal:** Build 8+ production-ready AI systems in 30 days  
+
+---
+
+## 📊 Progress Overview
+
+| Week | Focus | Status | Portfolio Value |
+|------|-------|--------|-----------------|
+| **Week 1** | RAG Fundamentals | ✅ 93.5% Complete | $6,000-8,000 |
+| **Week 2** | MCP Development | ✅ 100% Complete | $6,050-9,000 |
+| **Week 3** | Productization | 🔄 In Progress | TBD |
+| **Week 4** | Client Acquisition | ⏳ Upcoming | TBD |
+
+**Current Portfolio Value:** $12,050-17,000
+
+---
+
+## 🎬 Demo Videos
+
+### Week 1: Smart Knowledge Base
+**Production-ready RAG system with ChromaDB, hybrid search, and re-ranking**
+
+📹 [Watch Demo](YOUR_WEEK1_LOOM_LINK_HERE) (2 mins)
+
+**Features:**
+- Semantic search with ChromaDB
+- Hybrid search (keyword + vector)
+- Re-ranking for precision
+- Streamlit interface
+- Production-ready deployment
+
+---
+
+### Week 2: Business Intelligence Assistant
+**AI orchestration system connecting multiple MCP servers**
+
+📹 [Watch Demo](https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183) (2 mins)
+
+**Features:**
+- RAG-powered knowledge base with citations
+- Database operations (MCP)
+- Mathematical calculations (MCP)
+- Intelligent query routing
+- Single unified interface
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+- **Vector Databases:** ChromaDB, Pinecone, Weaviate
+- **AI/ML:** OpenAI, Claude API, LangChain
+- **MCP:** Model Context Protocol (Anthropic)
+- **Frontend:** Streamlit
+- **Backend:** Python, FastAPI
+- **Database:** SQLite, PostgreSQL
+
+### Key Skills Demonstrated
+- Retrieval-Augmented Generation (RAG)
+- Vector embeddings and similarity search
+- Hybrid search algorithms
+- MCP server development
+- API integration and orchestration
+- Production deployment
+
+---
+
+## 📁 Project Structure
+```
+RAG/
+├── 📂 Week 1 - RAG Fundamentals
+│   ├── day1-basic-rag/              # Basic ChromaDB implementation
+│   ├── day3-vector-comparison/      # Multi-vector DB comparison
+│   └── portfolio-project-1/         # 🎯 Smart Knowledge Base
+│
+├── 📂 Week 2 - MCP Development
+│   ├── day8-mcp-basics/            # Calculator MCP server
+│   ├── day9-database-mcp/          # Database MCP server
+│   ├── day10-weather-mcp/          # Weather API MCP server
+│   ├── day11-hubspot-mcp/          # HubSpot CRM MCP server
+│   └── day12-business-assistant/   # 🎯 Business Intelligence Assistant
+│
+└── 📂 Documentation
+    ├── LEARNING_JOURNEY.md         # Daily progress log
+    ├── PROJECT_OVERVIEW.md         # Technical documentation
+    └── WEEK2_SUMMARY.md            # Week 2 achievements
+```
+
+---
+
+## 🎯 Portfolio Projects
+
+### 1. Smart Knowledge Base (Week 1)
+**Service Value:** $3,000-4,000
+
+**Production Features:**
+- ChromaDB vector database
+- Semantic search with embeddings
+- Hybrid search (BM25 + vector)
+- Re-ranking for precision
+- Document management system
+- Streamlit interface
+- API endpoints
+
+**Use Cases:**
+- Enterprise knowledge management
+- Customer support systems
+- Internal documentation search
+- Research assistance
+
+---
+
+### 2. Business Intelligence Assistant (Week 2)
+**Service Value:** $3,000-5,000
+
+**Production Features:**
+- RAG knowledge base with citations
+- MCP server orchestration
+- Calculator server for business math
+- Database server for CRM data
+- Intelligent query routing
+- Multi-tool coordination
+- Production-ready deployment
+
+**Use Cases:**
+- Business analytics
+- Sales intelligence
+- Customer data analysis
+- Financial calculations
+- Knowledge retrieval
+
+---
+
+## 🚀 MCP Servers Built
+
+### 1. Calculator MCP Server
+**Value:** $500-800
+- Basic arithmetic operations
+- Business calculations
+- API integration ready
+
+### 2. Database MCP Server
+**Value:** $800-1,200
+- SQLite integration
+- CRUD operations
+- Query execution
+- Data management
+
+### 3. Weather Intelligence MCP Server
+**Value:** $1,000-1,500
+- OpenWeatherMap API integration
+- Real-time weather data
+- Location-based queries
+- Forecast capabilities
+
+### 4. HubSpot CRM MCP Server
+**Value:** $1,500-2,000
+- HubSpot API integration
+- Contact management
+- Deal tracking
+- CRM operations
+
+---
+
+## 📚 Key Learning Resources
+
+### RAG Fundamentals (Week 1)
+- Vector databases comparison
+- Embedding models and techniques
+- Hybrid search implementation
+- Re-ranking algorithms
+- Production deployment patterns
+
+### MCP Development (Week 2)
+- Model Context Protocol specification
+- Server implementation patterns
+- Tool orchestration
+- API integration
+- Error handling and logging
+
+---
+
+## 🎓 Skills Demonstrated
+
+**Technical Skills:**
+- ✅ RAG system architecture
+- ✅ Vector database implementation
+- ✅ MCP server development
+- ✅ API integration
+- ✅ Production deployment
+- ✅ Error handling and logging
+- ✅ Testing and validation
+- ✅ Documentation
+
+**Business Skills:**
+- ✅ Project planning
+- ✅ Portfolio development
+- ✅ Client-focused solutions
+- ✅ Service value estimation
+- ✅ Building in public
+
+---
+
+## 🏆 Achievements
+
+### Week 1 (Days 1-7)
+- ✅ Built basic RAG system
+- ✅ Compared 3 vector databases
+- ✅ Implemented hybrid search
+- ✅ Built re-ranking system
+- ✅ Deployed Smart Knowledge Base
+- ✅ Created comprehensive documentation
+- ✅ Recorded demo video
+
+### Week 2 (Days 8-14)
+- ✅ Built 4 production MCP servers
+- ✅ Integrated Calculator, Database, Weather, HubSpot
+- ✅ Orchestrated multi-server assistant
+- ✅ Deployed Business Intelligence Assistant
+- ✅ Comprehensive testing and validation
+- ✅ Created technical documentation
+- ✅ Recorded demo video
+
+---
+
+## 📈 Business Value
+
+### Portfolio Breakdown
+
+| Project | Type | Value Range | Status |
+|---------|------|-------------|--------|
+| Smart Knowledge Base | RAG System | $3,000-4,000 | ✅ Complete |
+| Calculator MCP | MCP Server | $500-800 | ✅ Complete |
+| Database MCP | MCP Server | $800-1,200 | ✅ Complete |
+| Weather MCP | MCP Server | $1,000-1,500 | ✅ Complete |
+| HubSpot MCP | MCP Server | $1,500-2,000 | ✅ Complete |
+| Business Intelligence Assistant | Orchestration | $3,000-5,000 | ✅ Complete |
+| Vector Comparison Study | Research | $1,000-1,500 | ✅ Complete |
+| Hybrid Search System | Algorithm | $1,250-2,000 | ✅ Complete |
+
+**Total Portfolio Value:** $12,050-17,000
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+```bash
+Python 3.10+
+pip or conda
+OpenAI API key
+Claude API key (for Week 2 projects)
+```
+
+### Installation
+```bash
+# Clone the repository
+git clone https://github.com/nyalamrithwik-oss/RAG.git
+cd RAG
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Environment Setup
+
+Create a `.env` file:
+```env
+OPENAI_API_KEY=your_openai_key
+ANTHROPIC_API_KEY=your_claude_key
+OPENWEATHER_API_KEY=your_weather_key  # For Weather MCP
+HUBSPOT_API_KEY=your_hubspot_key      # For HubSpot MCP
+```
+
+### Run Smart Knowledge Base (Week 1)
+```bash
+cd portfolio-project-1
+streamlit run app.py
+```
+
+### Run Business Intelligence Assistant (Week 2)
+```bash
+cd week2-mcp/day12-business-assistant
+streamlit run app.py
+```
+
+---
+
+## 📖 Documentation
+
+- **[Learning Journey](LEARNING_JOURNEY.md)** - Daily progress and insights
+- **[Project Overview](PROJECT_OVERVIEW.md)** - Technical architecture
+- **[Week 2 Summary](WEEK2_SUMMARY.md)** - MCP development achievements
+
+### Project-Specific Docs
+- [Week 1 Case Studies](portfolio-project-1/DAY6_CASE_STUDY.md)
+- [Vector Database Comparison](day3-vector-comparison/DAY3_CASE_STUDY_1.md)
+- [MCP Integration Guide](week2-mcp/MCP_INTEGRATION_GUIDE.md)
+
+---
+
+## 🎯 Next Steps
+
+### Week 3 Focus: Productization
+- [ ] Create client-ready documentation
+- [ ] Build demo environments
+- [ ] Prepare case studies
+- [ ] Develop pricing packages
+- [ ] Create sales materials
+
+### Week 4 Focus: Client Acquisition
+- [ ] Outreach campaign
+- [ ] LinkedIn content strategy
+- [ ] Portfolio presentations
+- [ ] First client consultations
+
+---
+
+## 🤝 Connect
+
+**Building in Public:** Follow my journey on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
+**Looking for AI consulting?** Let's discuss your project:
+- RAG system implementation
+- MCP server development
+- AI system integration
+- Production deployment
+- Technical consulting
+
+---
+
+## 📜 License
+
+MIT License - Feel free to use this code for learning and development.
+
+---
+
+## 🙏 Acknowledgments
+
+- **Anthropic** - Claude API and MCP framework
+- **OpenAI** - GPT models and embeddings
+- **ChromaDB, Pinecone, Weaviate** - Vector database platforms
+- **Streamlit** - Rapid UI development
+- **LangChain** - RAG framework
+
+---
+
+## 📊 Stats
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nyalamrithwik-oss/RAG)
+![GitHub repo size](https://img.shields.io/github/repo-size/nyalamrithwik-oss/RAG)
+
+**Started:** December 2024  
+**Current Day:** 14 of 30  
+**Projects Completed:** 8  
+**Portfolio Value:** $12,050-17,000  
+**Goal:** $3K-5K monthly revenue  
+
+---
+
+**⭐ Star this repo if you find it helpful!**
+
+**Building production AI systems, one day at a time.** 🚀
