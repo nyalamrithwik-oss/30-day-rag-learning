@@ -713,7 +713,7 @@ RAG/
 - Tool orchestration
 - API integration
 - Error handling and logging
-
+https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183
 ---
 
 ## 🎓 Skills Demonstrated
