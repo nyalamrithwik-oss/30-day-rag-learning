@@ -121,7 +121,24 @@ Production-ready RAG system with beautiful UI - my first complete AI application
 **Stats:** ~500 lines of code | 20 hours | 4 file formats | Deployment-ready
 
 **Demo:** Fully functional web app with professional UI
+## 🎥 Demo Videos
 
+### Week 1 Projects:
+
+**📹 Smart Knowledge Base Demo** (3 min 31 sec)
+- Watch: https://www.loom.com/share/96feaebe6497495e85c3049c4ccc3de3
+- **What you'll see:**
+  - Multi-format document upload (PDF, TXT, DOCX, MD)
+  - Natural language query processing
+  - Sub-5 second response times
+  - Source citations with relevance scores
+  - Hybrid search (Vector + BM25) in action
+
+**Coming soon:**
+- Business Intelligence Assistant Demo (Week 2 flagship)
+- MCP Servers Overview (Week 2)
+
+---
 ---
 
 ### Week 1 Summary
