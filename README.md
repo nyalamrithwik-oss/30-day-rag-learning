@@ -528,6 +528,14 @@ Building production-ready AI systems with Retrieval-Augmented Generation (RAG) a
 
 ---
 
+# 🚀 RAG & MCP Learning Journey
+
+**30-Day Production AI Systems Challenge**
+
+Building production-ready AI systems with Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP) to generate $3K-5K monthly consulting revenue.
+
+---
+
 ## 👨‍💻 About
 
 **Developer:** Rithwik Nyalakanti  
@@ -556,13 +564,14 @@ Building production-ready AI systems with Retrieval-Augmented Generation (RAG) a
 ### Week 1: Smart Knowledge Base
 **Production-ready RAG system with ChromaDB, hybrid search, and re-ranking**
 
-📹 [Watch Demo](YOUR_WEEK1_LOOM_LINK_HERE) (2 mins)
+📹 [Watch Demo](https://www.loom.com/share/090124f034744e71b6ee06bb98c1422c) (3 mins)
 
 **Features:**
 - Semantic search with ChromaDB
 - Hybrid search (keyword + vector)
 - Re-ranking for precision
 - Streamlit interface
+- Multi-format document support
 - Production-ready deployment
 
 ---
@@ -578,6 +587,7 @@ Building production-ready AI systems with Retrieval-Augmented Generation (RAG) a
 - Mathematical calculations (MCP)
 - Intelligent query routing
 - Single unified interface
+- Multi-tool coordination
 
 ---
 
@@ -634,6 +644,7 @@ RAG/
 - Semantic search with embeddings
 - Hybrid search (BM25 + vector)
 - Re-ranking for precision
+- Multi-format document support (PDF, TXT, MD, DOCX)
 - Document management system
 - Streamlit interface
 - API endpoints
@@ -643,6 +654,8 @@ RAG/
 - Customer support systems
 - Internal documentation search
 - Research assistance
+
+**🎬 [Watch Demo Video](https://www.loom.com/share/090124f034744e71b6ee06bb98c1422c)**
 
 ---
 
@@ -665,6 +678,8 @@ RAG/
 - Financial calculations
 - Knowledge retrieval
 
+**🎬 [Watch Demo Video](https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183)**
+
 ---
 
 ## 🚀 MCP Servers Built
@@ -673,6 +688,7 @@ RAG/
 **Value:** $500-800
 - Basic arithmetic operations
 - Business calculations
+- Percentage and discount handling
 - API integration ready
 
 ### 2. Database MCP Server
@@ -681,6 +697,7 @@ RAG/
 - CRUD operations
 - Query execution
 - Data management
+- Company profile retrieval
 
 ### 3. Weather Intelligence MCP Server
 **Value:** $1,000-1,500
@@ -713,7 +730,7 @@ RAG/
 - Tool orchestration
 - API integration
 - Error handling and logging
-https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183
+
 ---
 
 ## 🎓 Skills Demonstrated
@@ -727,6 +744,7 @@ https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183
 - ✅ Error handling and logging
 - ✅ Testing and validation
 - ✅ Documentation
+- ✅ Streamlit UI development
 
 **Business Skills:**
 - ✅ Project planning
@@ -734,6 +752,7 @@ https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183
 - ✅ Client-focused solutions
 - ✅ Service value estimation
 - ✅ Building in public
+- ✅ Technical communication
 
 ---
 
@@ -858,7 +877,7 @@ streamlit run app.py
 
 ## 🤝 Connect
 
-**Building in Public:** Follow my journey on [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
+**Building in Public:** Follow my journey on [LinkedIn](https://www.linkedin.com/in/rithwik-nyalakanti)
 
 **Looking for AI consulting?** Let's discuss your project:
 - RAG system implementation
@@ -893,6 +912,7 @@ MIT License - Feel free to use this code for learning and development.
 **Started:** December 2024  
 **Current Day:** 14 of 30  
 **Projects Completed:** 8  
+**Demo Videos:** 2  
 **Portfolio Value:** $12,050-17,000  
 **Goal:** $3K-5K monthly revenue  
 
@@ -901,3 +921,51 @@ MIT License - Feel free to use this code for learning and development.
 **⭐ Star this repo if you find it helpful!**
 
 **Building production AI systems, one day at a time.** 🚀
+```
+
+---
+
+# 📱 **LINKEDIN POST WITH BOTH VIDEOS**
+```
+Day 14: From 0 to 8 AI systems in 2 weeks 🚀
+
+Here's the journey:
+
+Week 1: Learned RAG fundamentals
+Built Smart Knowledge Base with ChromaDB, hybrid search, and re-ranking.
+
+Week 2: Learned Model Context Protocol
+Built 4 MCP servers and connected them into one intelligent assistant.
+
+🎯 What I built:
+
+**Week 1 - Smart Knowledge Base:**
+→ Semantic document search
+→ Multi-format support (PDF, TXT, MD, DOCX)
+→ Hybrid search algorithm
+→ Production-ready deployment
+
+**Week 2 - Business Intelligence Assistant:**
+→ RAG knowledge base with citations
+→ Database operations (MCP)
+→ Mathematical calculations (MCP)
+→ Intelligent query routing
+→ Multi-system orchestration
+
+🛠️ Tech Stack:
+ChromaDB • Pinecone • Weaviate • MCP • Claude API • OpenAI • Streamlit • Python
+
+📊 Portfolio Value: $12K-17K across 8 production systems
+
+🎬 Watch the demos:
+Week 1: https://www.loom.com/share/090124f034744e71b6ee06bb98c1422c
+Week 2: https://www.loom.com/share/8d84951a1b5f4240838a92706b1de183
+
+💻 All code on GitHub: https://github.com/nyalamrithwik-oss/RAG
+
+This is what building in public looks like.
+30 days. 8 projects. Ready for clients.
+
+#BuildingInPublic #AI #RAG #MCP #AIConsulting #30DayChallenge #MachineLearning #Python #Streamlit #ClaudeAI
+
+Who else is building AI products? Let's connect! 🤝
